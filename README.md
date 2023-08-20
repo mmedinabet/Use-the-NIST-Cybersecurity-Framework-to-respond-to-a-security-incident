@@ -39,6 +39,8 @@ Detect
 
 Respond 
 - <b> The team disabled the intern’s network account. We provided training to interns and employees on how to protect login credentials in the future. We informed upper management of this event and they will contact our customers by mail to inform them about the data breach. Management will also need to inform law enforcement and other organizations as required by local laws. </b>
+
+
 Recover
 - <b> The team will recover the deleted data by restoring the database from last night’s full backup. We have informed staff that any customer information entered or changed this morning would not be recorded on the backup. So, they will need to re-enter that information into the database once it has been restored from last night’s backup.  </b>
   
