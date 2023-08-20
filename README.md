@@ -14,7 +14,7 @@ The company’s cybersecurity team then investigated the security event. They fo
 - <b> An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
 
-As cybersecurity ananlysts, we must create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF).
+As cybersecurity analysts, we must create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF).
 
 <h2>Incident report analysis - Example</h2>
 
