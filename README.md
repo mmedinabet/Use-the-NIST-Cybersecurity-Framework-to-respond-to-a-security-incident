@@ -6,7 +6,7 @@ During the attack, your organization’s network services suddenly stopped respo
 
 The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 
-To address this security event, the network security team implemented: 
+<h2> To address this security event, the network security team implemented:</h2>
 
 - <b>A new firewall rule to limit the rate of incoming ICMP packets</b>
 - <b> Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets</b>
