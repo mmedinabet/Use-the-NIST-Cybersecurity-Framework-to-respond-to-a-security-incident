@@ -44,7 +44,7 @@ Respond
 Recover
 - <b> The team will recover the deleted data by restoring the database from last night’s full backup. We have informed staff that any customer information entered or changed this morning would not be recorded on the backup. So, they will need to re-enter that information into the database once it has been restored from last night’s backup.  </b>
   
-<h2>Concluson</h2>
+<h2>Conclusion</h2>
 
 As a fictional cybersecurity analyst at a multimedia company, I effectively responded to a recent DDoS attack by implementing protective measures aligned with the NIST Cybersecurity Framework. The attack, facilitated by a flood of ICMP packets through an unconfigured firewall, prompted swift action to enhance network security. Through thorough analysis and identification of security gaps, including unauthorized access via compromised credentials, I strengthened protective measures with multi-factor authentication, limited login attempts, and comprehensive employee training. Additionally, I bolstered detection capabilities with firewall logging tools and IDS to monitor incoming traffic for anomalies. In the event of future incidents, our response plan prioritizes swift action, such as disabling compromised accounts and notifying management and affected parties, while our recovery strategy includes data restoration from backups and staff awareness efforts. This exercise demonstrates my ability to effectively mitigate security risks and uphold cybersecurity best practices in response to real-world threats.
 
